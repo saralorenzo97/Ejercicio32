@@ -145,10 +145,11 @@ section{
 /******* SECTION 1 ********/
 
 #conciertos{
-    background-color: rgb(161, 161, 161);
+    background-color: rgb(65, 58, 58);
 }
 
 .cabecera{
+    color: white;
     font-family: Caroline;
     font-size: 90px;
     padding: 10px;
@@ -163,7 +164,7 @@ section{
 }
 
 .cajas{
-    border: 3px dashed black;
+    border: 3px dashed rgb(255, 255, 255);
     height: 250px;
     width: 30%;
     margin-bottom: 25px;
@@ -179,7 +180,7 @@ section{
 .textocaja{
     position: absolute;
     /* height: 20%; */
-    background-color: rgba(0, 0, 0, 0.685);
+    background-color: rgba(136, 136, 136, 0.685);
     color: white;
     width: 100%;
     font-family: Caroline;

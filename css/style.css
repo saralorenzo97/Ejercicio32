@@ -64,11 +64,9 @@ section{
     position: relative;
 }
 
-
 .contentitulo header{
     height: 70px;
 }
-
 
 .titulo{
     height: calc(100% - 140px);
